@@ -1,0 +1,7 @@
+﻿  TirandoElDado.cpp
+C:\Users\34634\Downloads\DA Juez\TirandoElDado\TirandoElDado.cpp(39,19): warning C4244: 'return': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=lli
+          ]
+  TirandoElDado.vcxproj -> C:\Users\34634\Downloads\DA Juez\TirandoElDado\x64\Debug\TirandoElDado.exe
