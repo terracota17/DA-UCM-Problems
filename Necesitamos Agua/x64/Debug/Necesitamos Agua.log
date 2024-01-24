@@ -1,0 +1,11 @@
+﻿  Necesitamos Agua.cpp
+C:\Users\34634\Downloads\DA Juez\Necesitamos Agua\Necesitamos Agua.cpp(126,18): warning C4244: 'inicializando': conversión de 'const _Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\34634\Downloads\DA Juez\Necesitamos Agua\Necesitamos Agua.cpp(127,55): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\34634\Downloads\DA Juez\Necesitamos Agua\Necesitamos Agua.cpp(128,54): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\34634\Downloads\DA Juez\Necesitamos Agua\Necesitamos Agua.cpp(146,51): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\34634\Downloads\DA Juez\Necesitamos Agua\Necesitamos Agua.cpp(151,50): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Necesitamos Agua.vcxproj -> C:\Users\34634\Downloads\DA Juez\Necesitamos Agua\x64\Debug\Necesitamos Agua.exe
