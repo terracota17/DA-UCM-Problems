@@ -1,0 +1,3 @@
+﻿  DeteccionDeManchasNegras.cpp
+C:\Users\34634\Downloads\DA Juez\DeteccionDeManchasNegras\DeteccionDeManchasNegras.cpp(14,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  DeteccionDeManchasNegras.vcxproj -> C:\Users\34634\Downloads\DA Juez\DeteccionDeManchasNegras\x64\Debug\DeteccionDeManchasNegras.exe
