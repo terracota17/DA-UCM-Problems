@@ -1,0 +1,3 @@
+﻿  ComienzaLaTemporada.cpp
+C:\Users\34634\Downloads\DA Juez\ComienzaLaTemporada\ComienzaLaTemporada.cpp(19,68): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ComienzaLaTemporada.vcxproj -> C:\Users\34634\Downloads\DA Juez\ComienzaLaTemporada\x64\Debug\ComienzaLaTemporada.exe
