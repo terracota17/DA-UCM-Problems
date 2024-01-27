@@ -1,0 +1,3 @@
+﻿  AgujerosEnLaManguera.cpp
+C:\Users\34634\Downloads\DA Juez\AgujerosEnLaManguera\AgujerosEnLaManguera.cpp(32,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  AgujerosEnLaManguera.vcxproj -> C:\Users\34634\Downloads\DA Juez\AgujerosEnLaManguera\x64\Debug\AgujerosEnLaManguera.exe
