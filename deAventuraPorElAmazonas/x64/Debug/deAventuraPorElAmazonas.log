@@ -1,0 +1,6 @@
+﻿  deAventuraPorElAmazonas.cpp
+C:\Users\34634\Downloads\DA Juez\Prueba\deAventuraPorElAmazonas\Matriz.h(38,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\34634\Downloads\DA Juez\Prueba\deAventuraPorElAmazonas\Matriz.h(38): message : al compilar la función del miembro clase plantilla "int Matriz<EntInf>::numfils(void) const"
+C:\Users\34634\Downloads\DA Juez\Prueba\deAventuraPorElAmazonas\deAventuraPorElAmazonas.cpp(11): message : Vea la referencia a la creación de una instancia de la función plantilla "int Matriz<EntInf>::numfils(void) const" que se está compilando
+C:\Users\34634\Downloads\DA Juez\Prueba\deAventuraPorElAmazonas\deAventuraPorElAmazonas.cpp(11): message : Vea la referencia a la creación de una instancia de clase plantilla "Matriz<EntInf>" que se está compilando
+  deAventuraPorElAmazonas.vcxproj -> C:\Users\34634\Downloads\DA Juez\Prueba\deAventuraPorElAmazonas\x64\Debug\deAventuraPorElAmazonas.exe
